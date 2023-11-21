@@ -414,6 +414,10 @@ body{
 
 /* footer */
 
+.d-none {
+    display: none!important;
+}
+
 .footer{
     background: #FF862F;
 }
