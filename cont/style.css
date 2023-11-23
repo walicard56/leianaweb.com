@@ -902,10 +902,6 @@ body{
         align-items: center;
     }
 
-    .footer .footer-interno .footer-foto img{
-        width: 100%;
-    }
-
     .footer .footer-interno .footer-foto p{
         font-family: Nunito, sans-serif;
         font-size: 20px;
